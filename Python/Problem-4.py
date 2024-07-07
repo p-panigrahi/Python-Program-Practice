@@ -12,6 +12,6 @@ x = 13
 y = 12
 print(x)
 print(y)
-x,y = y,x
+x,y = y , x
 print(x)
 print(y)
